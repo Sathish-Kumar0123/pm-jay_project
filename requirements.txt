@@ -1,0 +1,6 @@
+
+ollama
+python-dotenv
+faiss-cpu
+numpy
+tqdm
